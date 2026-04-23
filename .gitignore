@@ -1,0 +1,17 @@
+# File Python
+__pycache__/
+*.pyc
+>env
+
+# File GIS besar
+*.tif
+*.tiff
+*.img
+data/raw/
+
+# Output
+output/
+
+# File sistem
+.DS_Store
+Thumbs.db
